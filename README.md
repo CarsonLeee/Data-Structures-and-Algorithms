@@ -1,2 +1,3 @@
-# LabyrinthMap
-Displays the quickest route in order to exit the map given to us. Projects uses a data structure of graphs and a depth-first search traversal to find the exit
+# Data Structures and Algorithms
+Western University - CS 2210
+The main objective of the course is to learn how to select and design data structures and algorithms.
