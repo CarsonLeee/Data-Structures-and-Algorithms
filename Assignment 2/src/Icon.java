@@ -1,7 +1,3 @@
-//Name: clee887
-//Date: March 24th, 2021
-//Description: Programming Assignment 2
-
 //Class that represents an Icon
 public class Icon implements IconADT {
 
