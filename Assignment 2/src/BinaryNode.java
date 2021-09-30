@@ -1,7 +1,3 @@
-//Name: clee887
-//Date: March 24th, 2021
-//Description: Programming Assignment 2
-
 //Class that represents a Binary Node for BST
 public class BinaryNode {
 
