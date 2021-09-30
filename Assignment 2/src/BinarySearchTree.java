@@ -1,7 +1,3 @@
-//Name: clee887
-//Date: March 24th, 2021
-//Description: Programming Assignment 2
-
 //Class representing a BST. Implements the BinarySearchTreeADT interface
 public class BinarySearchTree implements BinarySearchTreeADT {
 
