@@ -6,11 +6,9 @@ Student implemented least 4 Java classes: Node, Edge, Graph, Planner. All other 
 
 # How to Run
 
-Class ***ShowPath.java*** contains the main method for the program. To run your program you need to type
+Class ***ShowPath.java*** contains the main method for the program. To run your program inside run configurations under program arugments enter your desired map for example:
 
-`java ShowPath input file`
-
-Where `file` are the files in "inputFile".
+`map8`
 
 # Grade Achieved on Assignment:
 Final Grade: 100%
