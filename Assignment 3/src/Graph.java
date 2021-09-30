@@ -1,9 +1,3 @@
-//Name: clee887
-//Date: 04/05/2021
-//Class: CS 2210B
-//Description: Programming Assignment 3
-
-
 import java.util.ArrayList;
 import java.util.Iterator;
 
