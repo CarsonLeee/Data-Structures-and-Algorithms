@@ -1,7 +1,3 @@
-//Name: clee887
-//Date: March 24th, 2021
-//Description: Programming Assignment 2
-
 //This class represents the position (x,y) of a pixel.
 public class Position {
 	
