@@ -6,7 +6,7 @@ Student implemented these 4 Java classes: `Node.java`, `Edge.java`, `Graph.java`
 
 # How to Run
 
-Class ***ShowPath.java*** contains the main method for the program. To execute the program, inside the run configurations under the program arguments you will enter your desired map
+Class `ShowPath.java` contains the main method for the program. To execute the program, inside the run configurations under the program arguments you will enter your desired map
 
 `map1` `map2` `map3` `map5` `map6` `map9` 
 
